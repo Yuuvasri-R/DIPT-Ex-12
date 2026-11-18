@@ -175,6 +175,14 @@ plt.show()
 ```
 # OUTPUT
 
+<img width="596" height="481" alt="image" src="https://github.com/user-attachments/assets/fe4265e3-915a-4899-bb75-943ce4a82e12" />
+<img width="552" height="458" alt="image" src="https://github.com/user-attachments/assets/6971eba2-8345-4af4-a9e4-5c084d677025" />
+<img width="580" height="317" alt="image" src="https://github.com/user-attachments/assets/1e703485-fe5b-4a87-a524-74beac75b4f7" />
+<img width="572" height="285" alt="image" src="https://github.com/user-attachments/assets/1dc85d79-320e-48a7-bc14-74537a5a01f3" />
+<img width="432" height="452" alt="image" src="https://github.com/user-attachments/assets/9ca63557-1222-42d2-b069-17e19a1dc967" />
+
+
+
 
 # RESULT
 Thus to write a Python program using OpenCV to perform the following image manipulations was verified successfully.
